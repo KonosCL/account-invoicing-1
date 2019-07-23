@@ -4,3 +4,4 @@ purchase-workflow
 queue
 brand
 stock-logistics-workflow
+server-tools
